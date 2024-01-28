@@ -1,4 +1,4 @@
-s# LeetCode
+# LeetCode
 My Solutions to LeetCode Problems
 
 
@@ -6,5 +6,5 @@ My Solutions to LeetCode Problems
 <details>
 <summary>Arrays & Hashing</summary>
 
-- <a href='https://github.com/KaraWatts/LeetCode/Arrays_and_Hashing/Easy/ContainsDuplicates/README.md'>Easy - Contains Duplicates</a>
+- <a href='https://github.com/KaraWatts/LeetCode/tree/main/Arrays_and_Hashing/Easy/ContainsDuplicate/README.md'>Easy - Contains Duplicates</a>
 </details>
