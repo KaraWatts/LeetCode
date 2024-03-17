@@ -14,6 +14,12 @@ My Solutions to LeetCode Problems
 
 </details>
 
+<summary>Two Pointers</summary>
+
+- <a href='https://github.com/KaraWatts/LeetCode/Two_Pointers/ValidPalindrome/README.md'>Easy - Valid Palindrome</a>
+
+</details>
+
 ## JavaScript
 <details>
 <summary>Arrays & Hashing</summary>
