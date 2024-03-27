@@ -12,8 +12,11 @@ My Solutions to LeetCode Problems
 
 - <a href='https://github.com/KaraWatts/LeetCode/Arrays_and_Hashing/Two_Sum/README.md'>Easy - Two Sum</a>
 
+- <a href='https://github.com/KaraWatts/LeetCode/Arrays_and_Hashing/Group_Anagrams/README.md'>Medium - Group Anagrams</a>
+
 </details>
 
+<details>
 <summary>Two Pointers</summary>
 
 - <a href='https://github.com/KaraWatts/LeetCode/Two_Pointers/ValidPalindrome/README.md'>Easy - Valid Palindrome</a>
